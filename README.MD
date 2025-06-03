@@ -10,6 +10,7 @@
 
 
 
+```
 Brief
 This program implement a simple network MasterMind Game by java Socket.
 It has the following features:
@@ -146,3 +147,4 @@ COCO Looses the game, he/she used all 12 times but did not guess right.
 JOJO escape from the game (for example, he/she shut down the process)
 testPlayer guesses right using 56 seconds, so, he won the game in the shortest time.
 TRY AND PLAY ！
+```
